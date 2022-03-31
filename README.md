@@ -14,7 +14,7 @@ Exploring CRUD API development concepts. Development supervised by developer Mic
 
 ### Registration Movie
 
-<img src="https://github.com/willianrsouza/ASP.NET-SPECIALIZATION-CODES/blob/main/images/freelancer-logo.png?raw=true" align="center"
+<img src="https://github.com/willianrsouza/NODE-JS-API/blob/main/images/function-add.png?raw=true" align="center"
      alt="Freelancer Logo" width="220" height="210">
      
 ### Update Movie
