@@ -14,13 +14,13 @@ Exploring CRUD API development concepts. Development supervised by developer Mic
 
 ### Registration Movie
 
-<img src="https://github.com/willianrsouza/NODE-JS-API/blob/main/images/function-add.png?raw=true" align="center"
-     alt="Freelancer Logo" width="220" height="210">
+<img src="https://github.com/willianrsouza/NODE-JS-API/blob/main/images/function-delete.png?raw=true" align="center"
+     alt="Freelancer Logo" width="600" height="300">
      
 ### Update Movie
 
-<img src="https://github.com/willianrsouza/ASP.NET-SPECIALIZATION-CODES/blob/main/images/freelancer-logo.png?raw=true" align="center"
-     alt="Freelancer Logo" width="220" height="210">
+<img src="https://github.com/willianrsouza/NODE-JS-API/blob/main/images/function-delete.png?raw=true" align="center"
+     alt="Freelancer Logo" width="600" height="300">
      
 ### Delete Movie
 
@@ -29,8 +29,8 @@ Exploring CRUD API development concepts. Development supervised by developer Mic
      
 ### Consultation Movie
 
-<img src="https://github.com/willianrsouza/ASP.NET-SPECIALIZATION-CODES/blob/main/images/freelancer-logo.png?raw=true" align="center"
-     alt="Freelancer Logo" width="220" height="210">
+<img src="https://github.com/willianrsouza/NODE-JS-API/blob/main/images/function-delete.png?raw=true" align="center"
+     alt="Freelancer Logo" width="600" height="300">
           
 
 ### Applied Concepts
