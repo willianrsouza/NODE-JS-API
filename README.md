@@ -14,22 +14,22 @@ Exploring CRUD API development concepts. Development supervised by developer Mic
 
 ### Registration Movie
 
-<img src="https://github.com/willianrsouza/ASP.NET-SPECIALIZATION-CODES/blob/main/images/freelancer-logo.png?raw=true" align="right"
+<img src="https://github.com/willianrsouza/ASP.NET-SPECIALIZATION-CODES/blob/main/images/freelancer-logo.png?raw=true" align="center"
      alt="Freelancer Logo" width="220" height="210">
      
 ### Update Movie
 
-<img src="https://github.com/willianrsouza/ASP.NET-SPECIALIZATION-CODES/blob/main/images/freelancer-logo.png?raw=true" align="right"
+<img src="https://github.com/willianrsouza/ASP.NET-SPECIALIZATION-CODES/blob/main/images/freelancer-logo.png?raw=true" align="center"
      alt="Freelancer Logo" width="220" height="210">
      
 ### Delete Movie
 
-<img src="https://github.com/willianrsouza/ASP.NET-SPECIALIZATION-CODES/blob/main/images/freelancer-logo.png?raw=true" align="right"
+<img src="https://github.com/willianrsouza/ASP.NET-SPECIALIZATION-CODES/blob/main/images/freelancer-logo.png?raw=true" align="center"
      alt="Freelancer Logo" width="220" height="210">
      
 ### Consultation Movie
 
-<img src="https://github.com/willianrsouza/ASP.NET-SPECIALIZATION-CODES/blob/main/images/freelancer-logo.png?raw=true" align="right"
+<img src="https://github.com/willianrsouza/ASP.NET-SPECIALIZATION-CODES/blob/main/images/freelancer-logo.png?raw=true" align="center"
      alt="Freelancer Logo" width="220" height="210">
           
 
