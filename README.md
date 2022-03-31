@@ -14,7 +14,7 @@ Exploring CRUD API development concepts. Development supervised by developer Mic
 
 ### Registration Movie
 
-<img src="https://github.com/willianrsouza/NODE-JS-API/blob/main/images/function-delete.png?raw=true" align="center"
+<img src="https://github.com/willianrsouza/NODE-JS-API/blob/main/images/function-add.png?raw=true" align="center"
      alt="Freelancer Logo" width="600" height="300">
      
 ### Update Movie
