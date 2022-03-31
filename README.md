@@ -7,27 +7,18 @@ Exploring CRUD API development concepts. Development supervised by developer Mic
 
 ### Actions
 
-1. Registration, Update, Cancellation, Consultation Freelance Service.
-2. Registration of User and Freelancer and Client profiles.
-3. Add Comments for a Freelancer Service.
-4. Define start and end project.
+1. Registration, Update, Cancellation, Consultation Movies Service.
+
 
 ### Applied Concepts
 
 1. CRUD (CREATE, READ, UPDATE, and DELETE).
-2. AWS Microservices.
-3. Add Comments for a Freelancer Service.
-4. Define start and end project.
-
-
-### ORM (Object Relational Mapper) Used 
-
-- Entity FrameWork
+2. NoSQL 
 
 
 ### IDE'S
 
-- Visual Studio
+- Visual Code
 
 ### Tools
 
