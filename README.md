@@ -7,8 +7,31 @@ Exploring CRUD API development concepts. Development supervised by developer Mic
 
 ### Actions
 
-1. Registration, Update, Cancellation, Consultation Movies Service.
+1.  Registration Movie.
+2.  Update Movie.
+3.  Delete Movie.
+4.  Consultation Movie.
 
+### Registration Movie
+
+<img src="https://github.com/willianrsouza/ASP.NET-SPECIALIZATION-CODES/blob/main/images/freelancer-logo.png?raw=true" align="center"
+     alt="Freelancer Logo" width="220" height="210">
+     
+### Update Movie
+
+<img src="https://github.com/willianrsouza/ASP.NET-SPECIALIZATION-CODES/blob/main/images/freelancer-logo.png?raw=true" align="center"
+     alt="Freelancer Logo" width="220" height="210">
+     
+### Delete Movie
+
+<img src="https://github.com/willianrsouza/ASP.NET-SPECIALIZATION-CODES/blob/main/images/freelancer-logo.png?raw=true" align="center"
+     alt="Freelancer Logo" width="220" height="210">
+     
+### Consultation Movie
+
+<img src="https://github.com/willianrsouza/ASP.NET-SPECIALIZATION-CODES/blob/main/images/freelancer-logo.png?raw=true" align="center"
+     alt="Freelancer Logo" width="220" height="210">
+          
 
 ### Applied Concepts
 
