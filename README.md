@@ -25,7 +25,7 @@ Exploring CRUD API development concepts. Development supervised by developer Mic
 ### Delete Movie
 
 <img src="https://github.com/willianrsouza/NODE-JS-API/blob/main/images/function-delete.png?raw=true" align="center"
-     alt="Freelancer Logo" width="800" height="800">
+     alt="Freelancer Logo" width="500" height="800">
      
 ### Consultation Movie
 
