@@ -4,6 +4,10 @@
  
 Exploring CRUD API development concepts. Development supervised by developer Michelle, Web Architecture course at Newton Paiva.
 
+### Applied Concepts
+
+1. CRUD (CREATE, READ, UPDATE, and DELETE).
+2. NoSQL 
 
 ### Actions
 
@@ -32,13 +36,6 @@ Exploring CRUD API development concepts. Development supervised by developer Mic
 <img src="https://github.com/willianrsouza/NODE-JS-API/blob/main/images/function-get.png?raw=true" align="center"
      alt="Freelancer Logo" width="600" height="300">
           
-
-### Applied Concepts
-
-1. CRUD (CREATE, READ, UPDATE, and DELETE).
-2. NoSQL 
-
-
 ### IDE'S
 
 - Visual Code
