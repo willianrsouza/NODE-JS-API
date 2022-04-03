@@ -1,4 +1,4 @@
-## CRUD - NODE'JS -  **Note: Project being built**
+## CRUD - NODE'JS
 
  **Project developed during my course in Newton Paiva**  
  
