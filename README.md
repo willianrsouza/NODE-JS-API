@@ -19,7 +19,7 @@ Exploring CRUD API development concepts. Development supervised by developer Mic
 ### Home Registration Movie
 
 <img src="https://github.com/willianrsouza/NODE-JS-API-CRUD/blob/main/images/home.png?raw=true" align="center"
-     alt="Freelancer Logo" width="800" height="500">
+     alt="Freelancer Logo" width="800" height="750">
 
 ### Registration Movie
 
