@@ -16,6 +16,11 @@ Exploring CRUD API development concepts. Development supervised by developer Mic
 3.  Delete Movie.
 4.  Consultation Movie.
 
+### Home Registration Movie
+
+<img src="https://github.com/willianrsouza/NODE-JS-API-CRUD/blob/main/images/home.png?raw=true" align="center"
+     alt="Freelancer Logo" width="500" height="200">
+
 ### Registration Movie
 
 <img src="https://github.com/willianrsouza/NODE-JS-API/blob/main/images/function-add.png?raw=true" align="center"
